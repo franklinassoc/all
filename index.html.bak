@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+    <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+    <title>Franklin Assoc Github landing page</title>
+  </head>
+  <body>Links to all Franklin Associates Github projects and websites.<br>
+    <br>
+    <br>
+    <table style="text-align: left; width: 90%; height: 988px;" border="1" cellpadding="2"
+      cellspacing="2">
+      <tbody>
+        <tr>
+          <td style="font-style: italic;">Site</td>
+          <td style="font-style: italic;">Status</td>
+          <td style="font-style: italic;">Client / Notes</td>
+        </tr>
+        <tr>
+          <td><a href="https://franklinassoc.github.io/bbr-roof-reset" target="_blank">bbr-roof-reset</a></td>
+          <td>active</td>
+          <td>Build Baton Rouge</td>
+        </tr>
+        <tr>
+          <td><a href="https://franklinassoc.github.io/bootstrap-franklin-site"
+              target="_blank">bootstrap-franklin-site</a></td>
+          <td>draft</td>
+          <td>fast loading clean site for Franklin</td>
+        </tr>
+        <tr>
+          <td><a href="https://franklinassoc.github.io/BREC-Greenwood-and-Zoo" target="_blank">BREC-Greenwood-and-Zoo</a></td>
+          <td style="color: rgb(204, 51, 204);">inactive</td>
+          <td>BREC's Greenwood Park and BR Zoo draft page. Taken down. Not used
+            in project.</td>
+        </tr>
+        <tr>
+          <td><br>
+            <a href="https://franklinassoc.github.io/ebrpha-atlanta" target="_blank">ebrpha-atlanta</a></td>
+          <td>active</td>
+          <td>EBR Public Housing Authority Atlanta Canvasing Trip and Board
+            Retreat</td>
+        </tr>
+        <tr>
+          <td><a href="https://franklinassoc.github.io/ebrra-housing" target="_blank">ebrra-housing</a></td>
+          <td>active</td>
+          <td>Build Baton Rouge home rehab program</td>
+        </tr>
+        <tr>
+          <td><a href="https://franklinassoc.github.io/emailsig" target="_blank">emailsig</a></td>
+          <td style="color: rgb(204, 51, 204);">inactive</td>
+          <td>not a website. hosts logo for our email signature. Inactive, yet
+            functioning.</td>
+        </tr>
+        <tr>
+          <td><a href="https://franklinassoc.github.io/environmentals" target="_blank">environmentals</a></td>
+          <td>active</td>
+          <td>LHC residential programs - environmental inspections</td>
+        </tr>
+        <tr>
+          <td><a href="https://franklinassoc.github.io/i10br" target="_blank">i10br</a></td>
+          <td>active</td>
+          <td>zoom maps of engineer's roll-plan exhibits of I-10 corridor
+            through Baton Rouge.</td>
+        </tr>
+        <tr>
+          <td><a href="https://franklinassoc.github.io/la-scorp" target="_blank">la-scorp</a><br>
+            <a href="https://franklinassoc.github.io/la-scorp/state-parks-webmap"
+              target="_blank">state-parks-webmap</a></td>
+          <td>active</td>
+          <td>Content for Louisiana Parks SCORP 2020 solicitation. Web maps.</td>
+        </tr>
+        <tr>
+          <td><a href="https://franklinassoc.github.io/lhc-ocd-dru" target="_blank">lhc-ocd-dru</a></td>
+          <td>active</td>
+          <td>web maps of case locations, shared with client.</td>
+        </tr>
+        <tr>
+          <td><a href="https://franklinassoc.github.io/maps" target="_blank">maps</a></td>
+          <td style="color: red;">error</td>
+          <td>doesn't work. James various web maps.</td>
+        </tr>
+        <tr>
+          <td><a href="https://franklinassoc.github.io/medicaid-counseling" target="_blank">medicaid-counseling</a></td>
+          <td>active</td>
+          <td>website prototype setup for Maximus project. Never utilized.</td>
+        </tr>
+        <tr>
+          <td><a href="https://franklinassoc.github.io/presentations" target="_blank">presentations</a></td>
+          <td style="color: red;">error</td>
+          <td>James' web-based on-screen presentations.</td>
+        </tr>
+        <tr>
+          <td><a href="https://franklinassoc.github.io/protected-github-pages" target="_blank">protected-github-pages</a></td>
+          <td style="color: red;">error</td>
+          <td>forked example of sign-in mechanism for Github pages.</td>
+        </tr>
+        <tr>
+          <td><a href="https://franklinassoc.github.io/st-james" target="_blank">st-james</a></td>
+          <td>active</td>
+          <td>redirect page for St James parish housing survey. Needs to be
+            deactivated.</td>
+        </tr>
+        <tr>
+          <td><a href="https://franklinassoc.github.io/test-bootstrap-dashboard"
+              target="_blank">test-bootstrap-dashboard</a></td>
+          <td>active</td>
+          <td>Prototype of Bootstrap 3 "dashboard" framework. SB Admin v2.0.</td>
+        </tr>
+        <tr>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+    <br>
+    <br>
+    <br>
+  </body>
+</html>
